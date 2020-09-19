@@ -1,1 +1,1 @@
-export * from './observable-binding';
+export { ObservableBinding } from './observable-binding';
